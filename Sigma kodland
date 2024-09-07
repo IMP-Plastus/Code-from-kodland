@@ -1,0 +1,5 @@
+import random
+import time
+facts = ["lubie plywac", "mam kota", "najbardziej jestem dumny z mojego projektu cash simulator", "moje ulubione danie to pizza"]
+time.sleep(2)
+print(random.choice(facts))
